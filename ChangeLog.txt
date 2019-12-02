@@ -1,3 +1,5 @@
+ChangeLog
+
 1.3.0.1
 	Merged patches by @Deimos Rast and @LeLeon
 	Merged patch by @Starwaster
@@ -42,3 +44,8 @@
     Update OrbitalTugPod.cfg
     small fixes
     Put full license text into License.md
+
+1.3.1
+	Updated all DDS to DXT5 format
+	Updated to KSP 1.8
+
